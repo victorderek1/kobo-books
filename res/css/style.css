@@ -1,0 +1,82 @@
+*{
+  margin: 0px;
+  padding: 0PX; 
+}
+body{
+  background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(../img/startup-593296_1280.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mr-10{
+  margin-right: 50px;
+}
+.h-50{
+  height: 50vh;
+}
+.carousel-item{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 110vh;
+}
+.pt-mas{
+  padding-top: 200px;
+}
+.pt-mini{
+  padding-top: 170px;
+}
+.category-bg{
+  background: linear-gradient(rgba(31, 214, 153, 0.911),rgba(31, 214, 153, 0.788)), url(../img/social-media-3758364_1280.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
